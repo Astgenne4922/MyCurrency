@@ -1,10 +1,3 @@
-//
-//  AppDelegate.m
-//  MyCurrency
-//
-//  Created by user238151 on 7/16/23.
-//
-
 #import "AppDelegate.h"
 
 @interface AppDelegate ()
